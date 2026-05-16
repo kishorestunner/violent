@@ -51,6 +51,12 @@
         "projectId": "b7392edc-8351-43f5-846d-95d89fc13c36"
       }
     },
-    "owner": "kishore_king"
+    "owner": "kishore_king",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b7392edc-8351-43f5-846d-95d89fc13c36"
+    }
   }
 }
